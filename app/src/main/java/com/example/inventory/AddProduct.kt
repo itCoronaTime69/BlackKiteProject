@@ -1,13 +1,14 @@
 package com.example.inventory
 
 import android.content.Context
+import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import kotlinx.android.synthetic.main.add_product1.*
 
 //syntax to change other page upon press button
 //Add class to manifest by clicking AddProduct, then ALT + Enter then click add product to manifest
-
+//register
 class AddProduct: AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -21,6 +22,9 @@ class AddProduct: AppCompatActivity() {
             database.edit().apply {
                 putString("savedProductName",editTextProductName.text.toString()) // store input in val database
             }.apply()
+            startActivity(Intent(this,MainActivity::class.java)) //to link to next page
+
         }
+
     }
 }
