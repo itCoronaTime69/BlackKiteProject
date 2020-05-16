@@ -13,10 +13,10 @@ class UserMainPage : AppCompatActivity() {
         setContentView(R.layout.activity_user_main_page)
 
         gotoInvest.setOnClickListener {
-            startActivity(Intent(this,Main2Activity::class.java)) //to link to next page
+            startActivity(Intent(this,Invest::class.java)) //to link to next page
         }
         gotoReqLoan.setOnClickListener {
-            startActivity(Intent(this,Main2Activity::class.java)) //to link to next page
+            startActivity(Intent(this,Reqloan::class.java)) //to link to next page
         }
         gotoExp.setOnClickListener {
             startActivity(Intent(this,Main2Activity::class.java)) //to link to next page
