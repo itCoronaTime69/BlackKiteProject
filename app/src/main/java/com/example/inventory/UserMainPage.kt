@@ -19,7 +19,7 @@ class UserMainPage : AppCompatActivity() {
             startActivity(Intent(this,Reqloan::class.java)) //to link to next page
         }
         gotoExp.setOnClickListener {
-            startActivity(Intent(this,Main2Activity::class.java)) //to link to next page
+            startActivity(Intent(this,ExploreActivity::class.java)) //to link to next page
         }
         gotoProfile.setOnClickListener {
             startActivity(Intent(this,Main2Activity::class.java)) //to link to next page

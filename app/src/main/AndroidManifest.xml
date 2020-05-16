@@ -9,7 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Reqloan"></activity>
+        <activity
+            android:name=".ExploreActivity"
+            android:label="@string/title_activity_explore"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity android:name=".Reqloan" />
         <activity android:name=".Main3Activity" />
         <activity android:name=".ReqLoan" />
         <activity android:name=".Invest" />
