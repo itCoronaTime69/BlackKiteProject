@@ -1,5 +1,5 @@
-<resources>
-    <string name="app_name">Razer\'s 360</string>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Project BlackKite</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_sign_in">SignInActivity</string>
     <!-- Strings used for fragments for navigation -->
@@ -12,30 +12,28 @@
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="title_activity_scrolling">ScrollingActivity</string>
     <string name="large_text">
-        "Material is the metaphor.\n\n"
+        "News and Updates!.\n\n"
 
-        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
-        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
-        "technologically advanced and open to imagination and magic.\n"
-        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
-        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
-        "flexibility of the material creates new affordances that supercede those in the physical "
-        "world, without breaking the rules of physics.\n"
-        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
-        "interact, and exist in space and in relation to each other. Realistic lighting shows "
-        "seams, divides space, and indicates moving parts.\n\n"
+        "1. Chinese New Year Animated Call Cards!\n\n"
 
-        "Bold, graphic, intentional.\n\n"
+        "Good news! Top designers have collaberated to design Chinese New Year Cards for this year! "
+        "The Designers will feature animated Call Cards to suprise your friends and family "
+        "Remember to keep your wallet charged so you can loan money to others "
+        "and get points! \n\n"
 
-        "The foundational elements of print based design typography, grids, space, scale, color, "
-        "and use of imagery guide visual treatments. These elements do far more than please the "
-        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
-        "imagery, large scale typography, and intentional white space create a bold and graphic "
-        "interface that immerse the user in the experience.\n"
-        "An emphasis on user actions makes core functionality immediately apparent and provides "
-        "waypoints for the user.\n\n"
+        "2. Special points for CNY related projects! \n\n"
 
-        "Motion provides meaning.\n\n"
+        "Get double points for supporting or creating CNY related projects"
+        "with the tags #cny! Go crazy for cny cookies, clothings, performances and more!"
+        "with more than 150 cny projects, you are sure to have a blast this cny!\n\n"
+
+        "3. Stand a chance to win a 3D2N staycation in London! \n\n"
+
+        "Maintain a credit score of 4.0 or more with more than 50 ratings and stand a chance"
+        "to take part in Singtel's lucky Draw and win a 3D2N staycation in London!"
+        "*Terms and Conditions Apply!\n\n"
+
+        "Motion .\n\n"
 
         "Motion respects and reinforces the user as the prime mover. Primary user actions are "
         "inflection points that initiate motion, transforming the whole design.\n"
@@ -99,7 +97,44 @@
         "On the layout level, design your app layout to minimize opportunities for interference. "
         "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
         "when a user tries to pick up one of cards.\n\n"
+
+        "Lorem ipsum dolor sit amet, scelerisque velit et. Ornare in egestas diam, pede nulla odit"
+        "leo nunc interdum pellentesque. Sit sociis felis ante maecenas volutpat curabitur, done"
+        "viverra quam, nec sagittis urna ante nibh vivamus neque. Libero massa dignissim, porttitor
+        "integer. Posuere massa. Elit dolor tristique interdum, amet sagittis pede venenatis, risus odio tempus a non aenean. Vitae lectus dui wisi ad enim tempus, donec dapibus in mollis volutpat sit tristique, amet donec aliquet quis nam volutpat, ipsum non lobortis. Rhoncus vestibulum vestibulum eros quis orci at, suspendisse ultricies nam consectetuer pretium arcu sodales, mollis semper quisque eget, sagittis mi est vestibulum ornare non, dui ligula eleifend adipiscing pede. Tortor neque mi, vestibulum nibh erat justo, laoreet quis quam auctor ullamcorper, auctor donec ligula ipsum egestas ac, venenatis nullam iaculis.
+
+Cras sed, consequat diam praesent occaecat sed eu, egestas placerat nunc non accumsan curabitur quisquam, praesent vulputate eleifend sit, nibh vestibulum metus. Ultrices nisl senectus quisque, erat porta praesent ornare culpa urna faucibus, laoreet posuere dolor ut fames nascetur ac, at luctus etiam augue magna vivamus ullamcorper, quisque mi vel varius odio. Metus non elit aliquam et sed id, pede nonummy maecenas in posuere. Non arcu arcu porta dapibus leo magna, tellus tortor nisi tempus integer, nec tellus mauris sit, orci ipsum viverra velit. Purus dolor ligula vitae pede, sit suscipit aenean mauris, velit curabitur et maecenas, elementum tincidunt massa donec sem lobortis, aliquam pretium dolor viverra ad nam.
+
+Auctor duis molestie felis et ullamcorper sed, odio maecenas elit vulputate mauris libero. Posuere iaculis nulla elit vestibulum amet massa, lectus eget ornare morbi a phasellus beatae, eget nascetur nec arcu leo ac. Amet ac tempor, lectus lorem, imperdiet vivamus mattis. Laoreet dolor, vehicula vestibulum aliquet suspendisse laoreet molestie, nunc elit augue eget penatibus sit sodales, convallis mus assumenda eget blandit turpis, donec integer integer aliquam vitae. Lectus morbi, suspendisse odio dolor, fusce vestibulum inceptos malesuada vitae. Id conubia rutrum, a amet non temporibus ut, suspendisse nulla nibh sed suspendisse at faucibus. Erat arcu consectetuer sit pede, non nunc sodales arcu proin, ac consequat at justo ullamcorper lectus tempus, lectus lacus sodales ultrices elit, risus vel diam vestibulum tristique cursus. In sed facilisis convallis. A vivamus, sem pulvinar non vel. Malesuada massa. Per rutrum lorem proin diam felis, blandit nec in ut eu, nulla quis donec varius, in congue ante suscipit mauris imperdiet fermentum, in nulla libero. Nibh erat, at nunc ligula ut nisl, in in id in non, in arcu libero quis etiam ridiculus ultrices, maecenas mauris fermentum ipsum auctor.
+
+Quisque wisi, molestie odio enim eu dolor, quisque risus vel eu convallis sed dui. A dapibus metus sed, iaculis mattis tempor quam vel. Eu pede purus, euismod pellentesque, ac arcu sagittis, pellentesque mauris voluptatem aliquam ipsum. Felis phasellus aliquet erat. Interdum purus porttitor sed nec, amet duis convallis. Senectus lacus quis aliquet, magna mauris eget sed, vestibulum sed donec tincidunt adipiscing mi elit, odio taciti mattis nunc. Risus a tempus, wisi amet nec, enim magna id. Dui eget at id leo dolor, vestibulum velit varius natoque quis elementum justo, metus et velit pretium vitae tellus ac, dapibus neque integer in nunc posuere, sociosqu orci justo sed. Fermentum donec sapien sit ac, congue suspendisse feugiat sodales."
     </string>
     <string name="title_activity_explore">ExploreActivity</string>
+
+    <string name="high_yield">High Yield</string>
+    <string name="fund_a_campaign">Fund a campaign</string>
+    <string name="buy_bonds">Buy bonds</string>
+    <string name="municipal">Municipal</string>
+    <string name="s_p_500"><![CDATA[S&P 500]]></string>
+    <string name="canvas" tools:ignore="DuplicateDefinition">Canvas</string>
+    <string name="invest_your_stocks">Invest your stocks</string>
+    <string name="corporate">Corporate</string>
+    <string name="sgx">SGX</string>
+    <string name="nasdaq">Nasdaq</string>
+    <string name="hoverboard">Hoverboard</string>
+    <string name="terraplater">terraPlanter</string>
+    <string name="terraplanter">terraplanter</string>
+    <string name="submit">submit</string>
+    <string name="textview">TextView</string>
+    <string name="logo">logo</string>
+    <string name="card_number">Card Number</string>
+    <string name="card_holder">Card Holder</string>
+    <string name="cvv">CVV</string>
+    <string name="payment_options">Payment Options</string>
+    <string name="home">Home</string>
+    <string name="expirydate">Expiry date</string>
+    <string name="crowdfund_from_instagram">Crowdfund from Instagram</string>
+    =======
     <string name="title_activity_profile">profileActivity</string>
+    >>>>>>> d1bba5d075266db0888388aeb8ebc9bc99e24770
 </resources>
